@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine-Learning
 
-## Projects
+## Notes
 https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/Meachine%20Learing.ipynb
