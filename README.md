@@ -7,4 +7,4 @@ https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/Meachine%20Lea
 https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/Support%20Vector%20Machine.ipynb
 
 ### KNN Algorithm
-Algorithm
+[Algorithm](https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/KKN_algorithm.ipynb)
