@@ -10,3 +10,4 @@ https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/Support%20Vect
 [Algorithm](https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/KKN_algorithm.ipynb)
 
 ### Linear Regression Algorithm
+https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/Regression%20analysis%20(1).ipynb
