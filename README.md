@@ -8,3 +8,5 @@ https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/Support%20Vect
 
 ### KNN Algorithm
 [Algorithm](https://github.com/muniasamyk/Machine-Learning-Projects/blob/main/KKN_algorithm.ipynb)
+
+### Linear Regression Algorithm
